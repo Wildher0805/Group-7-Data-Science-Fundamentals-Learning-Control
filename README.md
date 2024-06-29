@@ -14,7 +14,7 @@
 ### **INTEGRANTES:**
 - Encinas Polanco, Yohaira Stephanie
 - Mamani Velasquez, WIlder Hernan
-- Maravi Cmapos, Maryory Violeta
+- Maravi Campos, Maryory Violeta
 - Morillo Torres, Daniel Alberto
 - Vergara Quezada, Luciana Camila
 ---
