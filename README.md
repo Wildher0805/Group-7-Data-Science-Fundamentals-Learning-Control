@@ -9,9 +9,12 @@
 
 ### **INTRODUCCIÓN:**
 ---
-*  En la industria financiera, una de las principales preocupaciones es la gestión efectiva del riesgo crediticio. Las instituciones financieras se enfrentan a la tarea crucial de evaluar correctamente el perfil de riesgo crediticio de sus clientes para tomar decisiones informadas sobre la aprobación o el rechazo de créditos. Este proceso es esencial, ya que un análisis inadecuado puede llevar a la concesión de créditos a clientes que no tienen la capacidad de cumplir con sus obligaciones de pago puntualmente, lo que a su vez puede incrementar la morosidad y los costos asociados a las provisiones.
+En la industria financiera, una de las principales preocupaciones es la gestión efectiva del riesgo crediticio. Las instituciones financieras se enfrentan a la tarea crucial de evaluar correctamente el perfil de riesgo crediticio de sus clientes para tomar decisiones informadas sobre la aprobación o el rechazo de créditos. Este proceso es esencial, ya que un análisis inadecuado puede llevar a la concesión de créditos a clientes que no tienen la capacidad de cumplir con sus obligaciones de pago puntualmente, lo que a su vez puede incrementar la morosidad y los costos asociados a las provisiones.
+
 La incertidumbre sobre la capacidad de un cliente para cumplir con sus obligaciones de pago puntualmente representa un desafío significativo para las instituciones financieras. Factores como cambios en la situación financiera del cliente, eventos imprevistos, y condiciones económicas externas pueden afectar la capacidad del cliente para pagar sus deudas a tiempo. Esta incertidumbre complica la evaluación del riesgo y puede resultar en decisiones de crédito subóptimas.
+
 Este estudio se enfoca en la evaluación del perfil de endeudamiento de los clientes con el objetivo de reducir la morosidad y el gasto en provisiones, mejorando así la eficiencia y rentabilidad de la entidad financiera. La identificación precisa de los clientes sobreendeudados es clave para mitigar el riesgo de incumplimiento y, por ende, para la estabilidad financiera de la entidad. Al implementar métodos avanzados de análisis de datos y modelos predictivos, las instituciones financieras pueden optimizar la toma de decisiones en la aprobación de créditos.
+
 La reducción de la morosidad no solo disminuye los costos directos asociados con las provisiones, sino que también mejora la relación de la entidad con sus clientes, fomentando una base de clientes más confiable y estable. Además, al reducir los costos de provisión, la entidad financiera puede aumentar su liquidez y capacidad para ofrecer más créditos en el futuro, apoyando el crecimiento económico y financiero tanto de la institución como de sus clientes.
 
 ---
