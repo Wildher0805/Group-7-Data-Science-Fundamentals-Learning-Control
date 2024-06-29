@@ -25,11 +25,9 @@
 - 
 ### **ENLACES**
 
-<<<<<<< HEAD
----Holi
-=======
 
 --- YOHAIRA
 
 --- DANIEL
->>>>>>> f9fece8b9527ad375b59010d59e4a65ff5e468b5
+
+--- WIldher
