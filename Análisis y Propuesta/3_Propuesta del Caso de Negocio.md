@@ -112,3 +112,40 @@ El equipo de marketing debe desarrollar estrategias claras para comunicar los be
 - **¿Hay campañas de educación financiera para ayudar a los clientes a entender las nuevas condiciones y cómo pueden beneficiarse de mejores prácticas de gestión crediticia?**\
 Se deben desarrollar campañas educativas para informar a los clientes sobre las nuevas condiciones de crédito, cómo pueden mejorar su perfil crediticio y las mejores prácticas para evitar el sobreendeudamiento, promoviendo así una relación más saludable y duradera.
 
+
+
+### **Suposiciones y métricas:**
+Con el objetivo de reducir la tasa de migración y el gasto de provisión de la entidad financiera, se propone un nuevo modelo de medición del perfil del cliente sobreendeudado.
+
+- **Métrica:**\
+Perfíl del cliente potencialmente sobre endeudado 
+Sobre Endeudado 
+Potencialmente Endeudado y no sobreendeudado
+
+### **Valor monetario incremental:**
+- **Supuestos:**
+    - Costos mensuales por crédito: 4% del saldo del crédito.
+    - Cartera de créditos vigentes: S/. 1 000 000 (100 clientes con créditos de S/ 1 000, y cuota de S/ 200)
+    - Tasa de Migración: 10% 	
+    - Modelo ML: Disminuye en 3%
+
+- **Falso positivo:**\
+ Descuento a clientes que no están sobreendeudados y el modelo los marca como que sí, se les aplica un descuento del 4% sobre la cuota.
+
+    - Cantidad de clientes : 8
+    - Costo: 8 * 0.04 * 200 = S/ 64
+	
+
+- **Falso negativo:**\
+ Clientes que están sobreendeudados y el modelo no los marca como tal.
+	- Cantidad de clientes: 5 ( S/ 5 000)
+	- Costo: 5 000 * 0.04 = S/ 200 
+
+
+
+**Resultados Finales:**
+- Costo de migración sin modelo = 1 000 000 * 0.04 * 0.1 = S/ 4 000
+- Costo de migración con modelo = 1 000 000 * 0.04 * 0.085 = S/ 3 400
+- Ahorro del nuevo modelo = S/ 4 000 - S/3 400
+- Costo de falso positivo = S/ 64
+- Costo de falso negativo = S/ 200
