@@ -1,5 +1,5 @@
 # **I Programa de Especialización en Ciencia de Datos - UNI 2024**
-## **Grupo 7: "Nombre del Proyecto"**
+## **Grupo 7: Metodología de Árboles de Decisión para Pronóstico de Sobreendeudamiento**
 ## **Contenido:**
 1. [INTRODUCCIÓN](#introducción)
 2. [INTEGRANTES](#integrantes)
