@@ -43,3 +43,4 @@ La reducción de la morosidad no solo disminuye los costos directos asociados co
 ### **ESTRUCTURA DE LAS CARPETAS:**
 - 
 ### **ENLACES**
+- [Elección del Problema](Análisis y Propuesta/Elección del Problema.md)
