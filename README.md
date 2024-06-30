@@ -41,6 +41,9 @@ La reducción de la morosidad no solo disminuye los costos directos asociados co
 13. Desarrollar estrategias de comunicación con el equipo de marketing para informar a los clientes sobre los cambios en las políticas de crédito y promover la educación financiera.
 ---
 ### **ESTRUCTURA DE LAS CARPETAS:**
-- 
+
+
 ### **ENLACES**
-- [Elección del Problema](Análisis y Propuesta/Elección del Problema.md)
+- [1) Elección del Problema](/Análisis%20y%20Propuesta/1_Elección%20del%20Problema.md)
+- [2) Analisis del Problema](/Análisis%20y%20Propuesta/2_Análisis%20del%20Problema.md)
+- [3) Propuesta del Caso de Negocio](/Análisis%20y%20Propuesta/3_Propuesta%20del%20Caso%20de%20Negocio.md)
