@@ -58,6 +58,15 @@ En resumen, los árboles de decisión son una herramienta poderosa y flexible pa
 
 ## **Framework**
 ### **¿Qué?**
+- **¿Cómo medimos el perfil de sobreendeudamiento de los clientes?**\
+Actualmente la entidad financiera mide el perfil de sobreendeudamiento de los clientes a partir de una métrica obsoleta y con datos de los clientes desactualizados lo que no permite medir un perfil con mayor precisión. 
+
+- **¿Cuál es el impacto en los costos de la entidad financiera si se mide incorrectamente el perfil de sobreendeudamiento de los clientes?**\
+La baja precisión en la medición del perfil de sobreendeudamiento le ha generado a la entidad financiera un constante crecimiento en su tasa de migración y en sus gastos de provisión. Pues, en los últimos años la entidad financiera ha agregado en su cartera a clientes con perfiles de sobreendeudamiento imprecisos que posteriormente no cumplieron con pagar puntualmente sus créditos reduciendo su nivel esperado de ganancias e incrementando sus costos, así como ha generado que la entidad financiera derive mayores gastos en provisión que como consecuencia le reducen de liquidez para futuros créditos.
+
+- **¿Por qué los clientes migran de no sobreendeudado a potencialmente sobreendeudado/sobreendeudado?**\
+En la práctica existen muchos factores que inducen a los clientes a migrar a un perfil sobreendeudado como factores externos a la entidad financiera (desempleo, recesión, pandemia, etc.). Asimismo, existen otros factores que dependen de las acciones directas de la entidad, tales como, topes en las líneas de crédito, cobranzas poco exhaustivas, facilidades de pago, etc. 
+
 
 ### **¿Entonces qué?**
 - **¿Cómo se utilizará la clasificación de los clientes?**\
