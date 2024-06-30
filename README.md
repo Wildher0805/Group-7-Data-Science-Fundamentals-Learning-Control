@@ -41,8 +41,23 @@ La reducción de la morosidad no solo disminuye los costos directos asociados co
 13. Desarrollar estrategias de comunicación con el equipo de marketing para informar a los clientes sobre los cambios en las políticas de crédito y promover la educación financiera.
 ---
 ### **ESTRUCTURA DE LAS CARPETAS:**
-
-
+**Análisis y Propuesta**
+1. Elección del Problema
+   - Industria: Sector Financiero
+   - Perfil de Riesgo Crediticio
+   - Evaluación del perfil de endeudamiento
+2. Análsis del Problema
+   - Problema
+   - Decisión Relevante
+   - Métricas
+   - Palancas Relevantes
+   - Incertidumbre y resultados esperados
+3. Propuesta del Caso de Negocio
+   - Solución de Machine Learning: Decision Tree
+   - Framework
+   - Suposiciones y métricas
+   - Valor Monetario Incremental
+  
 ### **ENLACES**
 - [1) Elección del Problema](/Análisis%20y%20Propuesta/1_Elección%20del%20Problema.md)
 - [2) Analisis del Problema](/Análisis%20y%20Propuesta/2_Análisis%20del%20Problema.md)
