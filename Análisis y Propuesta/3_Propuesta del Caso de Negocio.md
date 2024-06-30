@@ -88,4 +88,27 @@ Se implementarán estrategias personalizadas para cada cliente identificado, com
 Se realizará un seguimiento continuo de los clientes clasificados como riesgosos para evaluar su comportamiento financiero, comparando los resultados con un grupo de control, y así determinar el impacto real de la estrategia en la reducción del costo de provisión del banco.
 
 ### **¿Y ahora qué?**
+- **¿Qué información adicional necesitas del departamento de análisis de riesgo para mejorar la identificación de clientes sobreendeudados?**\
+Necesitamos datos históricos detallados sobre clientes que han incumplido pagos en el pasado, incluyendo patrones de comportamiento de pago, información sobre créditos anteriores y cualquier indicador temprano de riesgo de sobreendeudamiento.
+
+- **¿Qué recursos necesitas del departamento de TI para implementar y mantener el modelo de machine learning (ML)?**\
+Necesitamos acceso a bases de datos actualizadas y capacidades de almacenamiento adecuadas para manejar grandes volúmenes de datos. Además, requerimos soporte técnico para la integración del modelo ML en los sistemas existentes y la implementación de medidas de seguridad de datos.
+
+- **¿El equipo legal necesita revisar las políticas de privacidad y uso de datos en el modelo de ML?**\
+Sí, el equipo legal debe revisar y garantizar que el modelo de ML cumpla con todas las regulaciones de privacidad de datos y normativas internas de la empresa. Esto incluye la protección adecuada de la información sensible de los clientes.
+
+- **¿Están de acuerdo en implementar límites a las líneas de crédito y ofrecer créditos con garantías?**\
+Es crucial obtener el respaldo del equipo de producto para introducir límites a las líneas de crédito y ofrecer opciones de crédito con garantías, lo cual puede mitigar el riesgo financiero asociado con clientes sobreendeudados.
+
+- **¿Cuál es el cronograma estimado para la implementación del nuevo sistema de evaluación del perfil crediticio?**\
+El cronograma debe incluir etapas específicas de desarrollo, pruebas piloto y la implementación completa del nuevo sistema. Se necesita coordinación con TI y otros departamentos clave para garantizar una implementación sin problemas.
+
+- **¿Cuándo se planifica la fase de prueba y cuándo se lanzará oficialmente la campaña de nuevos créditos bajo estas políticas?**\
+La fase de prueba debe comenzar una vez que el modelo de ML esté validado y los procesos internos estén listos. El lanzamiento oficial debe estar programado después de completar con éxito las pruebas y obtener la aprobación de todos los departamentos involucrados.
+
+- **¿El equipo de marketing ha desarrollado estrategias para comunicar los cambios en las políticas de crédito a los clientes actuales y potenciales?**\
+El equipo de marketing debe desarrollar estrategias claras para comunicar los beneficios y cambios en las políticas de crédito a los clientes, destacando cómo estas mejoras pueden beneficiar su situación financiera y fortalecer la relación con la entidad financiera.
+
+- **¿Hay campañas de educación financiera para ayudar a los clientes a entender las nuevas condiciones y cómo pueden beneficiarse de mejores prácticas de gestión crediticia?**\
+Se deben desarrollar campañas educativas para informar a los clientes sobre las nuevas condiciones de crédito, cómo pueden mejorar su perfil crediticio y las mejores prácticas para evitar el sobreendeudamiento, promoviendo así una relación más saludable y duradera.
 
