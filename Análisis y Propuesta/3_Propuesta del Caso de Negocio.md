@@ -55,3 +55,28 @@ Un Árbol de Decisión es un modelo de predicción utilizado tanto para problema
 - **Inestabilidad**: Pequeñas variaciones en los datos pueden llevar a la creación de árboles de decisión muy diferentes.
 
 En resumen, los árboles de decisión son una herramienta poderosa y flexible para realizar predicciones, pero es importante controlar su complejidad para evitar problemas de sobreajuste.
+
+## **Framework**
+### **¿Qué?**
+
+### **¿Entonces qué?**
+- **¿Cómo se utilizará la clasificación de los clientes?**\
+La clasificación de clientes según su riesgo de migración de no sobreendeudado a sobreendeudado permite al banco gestionar proactivamente el riesgo crediticio, personalizar las interacciones con los clientes y mejorar la rentabilidad de la cartera crediticia al reducir las pérdidas asociadas con clientes que podrían enfrentar dificultades financieras en el futuro.\
+
+- **¿Cómo se identificarán a los clientes con potencial de sobreendeudamiento?**\
+Utilizaremos modelos de machine learning que analicen el historial crediticio, comportamiento de pago y otros factores relevantes para predecir el riesgo de sobreendeudamiento.
+
+- **¿Qué criterios se utilizarán para clasificar a los clientes en riesgo de sobreendeudamiento?**\
+Se considerarán variables como nivel de ingresos, deudas actuales, historial crediticio, comportamiento de pago y otros indicadores financieros para determinar la clasificación de riesgo.
+
+- **¿Cómo se utilizará esta clasificación para reducir el costo de provisión en el banco?**\
+Al identificar a los clientes con potencial de sobreendeudamiento, podremos tomar medidas preventivas como ajustar límites de crédito, ofrecer asesoramiento financiero o reestructurar deudas, lo que ayudará a reducir el riesgo de impago y, por ende, el costo de provisión.
+
+- **¿Qué acciones se tomarán una vez identificados los clientes en riesgo de sobreendeudamiento?**\
+Se implementarán estrategias personalizadas para cada cliente identificado, como ofrecer productos financieros más adecuados a su perfil, establecer planes de pago flexibles o brindar educación financiera para mejorar su situación.
+
+- **¿Cómo se medirá el impacto de esta estrategia en la reducción del costo de provisión?**\
+Se realizará un seguimiento continuo de los clientes clasificados como riesgosos para evaluar su comportamiento financiero, comparando los resultados con un grupo de control, y así determinar el impacto real de la estrategia en la reducción del costo de provisión del banco.
+
+### **¿Y ahora qué?**
+
